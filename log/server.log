@@ -1,0 +1,1733 @@
+2015-02-17 14:48:20 396722: New Log file created.
+2015-02-17 14:49:42 049453: TRACE Debug page called
+2015-02-17 14:49:59 475883: TRACE Debug page called
+2015-02-17 14:49:59 476549: TRACE Debug page ended
+2015-02-17 14:50:32 222418: TRACE Debug page called
+2015-02-17 14:50:32 223108: TRACE DebugServer: Array
+(
+    [HTTP_HOST] => localhost:8888
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_COOKIE] => PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 8888
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Applications/MAMP/htdocs
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Applications/MAMP/htdocs/sb/debug.php
+    [REMOTE_PORT] => 64070
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /sb/debug.php
+    [SCRIPT_NAME] => /sb/debug.php
+    [PHP_SELF] => /sb/debug.php
+    [REQUEST_TIME_FLOAT] => 1424181032.22
+    [REQUEST_TIME] => 1424181032
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+2015-02-17 14:50:32 223863: TRACE Debug page ended
+2015-02-17 14:51:47 763455: TRACE Debug page called
+2015-02-17 14:51:47 765133: TRACE DebugServer: Array
+(
+    [HTTP_HOST] => localhost:8888
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+    [HTTP_ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+    [HTTP_ACCEPT_LANGUAGE] => en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate
+    [HTTP_COOKIE] => PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+    [HTTP_CONNECTION] => keep-alive
+    [HTTP_CACHE_CONTROL] => max-age=0
+    [PATH] => /usr/bin:/bin:/usr/sbin:/sbin
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => 127.0.0.1
+    [SERVER_PORT] => 8888
+    [REMOTE_ADDR] => 127.0.0.1
+    [DOCUMENT_ROOT] => /Applications/MAMP/htdocs
+    [SERVER_ADMIN] => you@example.com
+    [SCRIPT_FILENAME] => /Applications/MAMP/htdocs/sb/debug.php
+    [REMOTE_PORT] => 64148
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => GET
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /sb/debug.php
+    [SCRIPT_NAME] => /sb/debug.php
+    [PHP_SELF] => /sb/debug.php
+    [REQUEST_TIME_FLOAT] => 1424181107.76
+    [REQUEST_TIME] => 1424181107
+    [argv] => Array
+        (
+        )
+
+    [argc] => 0
+)
+
+2015-02-17 14:51:47 765774: TRACE Debug page ended
+2015-02-17 14:52:20 124658: TRACE Debug page called
+2015-02-17 14:52:38 527559: TRACE Debug page called
+2015-02-17 14:52:38 529268: TRACE Array denied
+2015-02-17 14:52:38 529876: TRACE Debug page ended
+2015-02-17 14:53:02 087949: TRACE Debug page called
+2015-02-17 14:53:02 088605: TRACE Array denied
+2015-02-17 14:53:02 089525: TRACE Debug page ended
+2015-02-17 14:53:34 066933: TRACE Debug page called
+2015-02-17 14:53:34 067747: TRACE Array accepted
+2015-02-17 14:53:34 068890: TRACE Debug page ended
+2015-02-17 14:53:48 766181: TRACE Debug page called
+2015-02-17 14:53:48 766625: TRACE Array accepted
+2015-02-17 14:53:48 767723: TRACE Debug page ended
+2015-02-17 15:01:52 790577: TRACE Debug page called
+2015-02-17 15:01:52 791531: TRACE Array accepted
+2015-02-17 15:01:52 792249: TRACE Array accepted
+2015-02-17 15:01:52 792727: TRACE Debug page ended
+2015-02-17 15:02:08 286969: TRACE Debug page called
+2015-02-17 15:02:08 287385: TRACE Array accepted
+2015-02-17 15:02:08 288157: TRACE Array accepted
+2015-02-17 15:02:08 288619: TRACE Debug page ended
+2015-02-17 15:04:56 633810: TRACE Debug page called
+2015-02-17 15:04:56 634214: TRACE Array accepted
+2015-02-17 15:04:56 634926: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:04:56 635412: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:04:56 635917: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:04:56 636494: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:04:56 637183: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:04:56 637631: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:04:56 638079: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:04:56 638617: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:04:56 639091: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:04:56 639515: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:04:56 640005: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:04:56 640472: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:04:56 640955: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:04:56 641374: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:04:56 641786: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:04:56 642199: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:04:56 642626: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:04:56 643077: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/debug.php
+2015-02-17 15:04:56 643508: TRACE Array rule: key=REMOTE_PORT & value=65034
+2015-02-17 15:04:56 643926: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:04:56 644364: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:04:56 644866: TRACE Array rule: key=REQUEST_METHOD & value=GET
+2015-02-17 15:04:56 645329: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:04:56 645741: TRACE Array rule: key=REQUEST_URI & value=/sb/debug.php
+2015-02-17 15:04:56 646169: TRACE Array rule: key=SCRIPT_NAME & value=/sb/debug.php
+2015-02-17 15:04:56 646566: TRACE Array rule: key=PHP_SELF & value=/sb/debug.php
+2015-02-17 15:04:56 646924: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424181896.63
+2015-02-17 15:04:56 647303: TRACE Array rule: key=REQUEST_TIME & value=1424181896
+2015-02-17 15:04:56 647725: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:04:56 648973: TRACE Array accepted
+2015-02-17 15:04:56 649411: TRACE Array rule: key=argc & value=0
+2015-02-17 15:04:56 649811: TRACE Debug page ended
+2015-02-17 15:05:35 034012: TRACE Debug page called
+2015-02-17 15:05:35 034375: TRACE Array accepted
+2015-02-17 15:05:35 035025: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:05:35 035441: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:05:35 035896: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:05:35 036343: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:05:35 036786: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:05:35 037199: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:05:35 037598: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:05:35 038020: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:05:35 038464: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:05:35 038879: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:05:35 039240: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:05:35 039644: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:05:35 040070: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:05:35 040541: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:05:35 040961: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:05:35 041309: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:05:35 041695: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:05:35 042072: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/debug.php
+2015-02-17 15:05:35 042502: TRACE Array rule: key=REMOTE_PORT & value=65075
+2015-02-17 15:05:35 042876: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:05:35 043274: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:05:35 043630: TRACE Array rule: key=REQUEST_METHOD & value=GET
+2015-02-17 15:05:35 043999: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:05:35 044397: TRACE Array rule: key=REQUEST_URI & value=/sb/debug.php
+2015-02-17 15:05:35 044830: TRACE Array rule: key=SCRIPT_NAME & value=/sb/debug.php
+2015-02-17 15:05:35 045262: TRACE Array rule: key=PHP_SELF & value=/sb/debug.php
+2015-02-17 15:05:35 045771: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424181935.03
+2015-02-17 15:05:35 046192: TRACE Array rule: key=REQUEST_TIME & value=1424181935
+2015-02-17 15:05:35 046676: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:05:35 048454: TRACE Array accepted
+2015-02-17 15:05:35 048968: TRACE Array rule: key=argc & value=0
+2015-02-17 15:05:35 052012: TRACE Debug page ended
+2015-02-17 15:07:56 221456: TRACE Debug page called
+2015-02-17 15:07:56 221849: TRACE Array accepted
+2015-02-17 15:07:56 222533: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:07:56 223004: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:07:56 224565: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:07:56 225072: TRACE Array accepted
+2015-02-17 15:07:56 225473: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:07:56 225920: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:07:56 226417: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:07:56 226867: TRACE Debug page ended
+2015-02-17 15:08:07 689552: TRACE Debug page called
+2015-02-17 15:08:07 689913: TRACE Array accepted
+2015-02-17 15:08:07 690598: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:07 691049: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:07 691617: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:07 692177: TRACE Array accepted
+2015-02-17 15:08:07 692599: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:07 693069: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:07 693510: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:07 694023: TRACE Debug page ended
+2015-02-17 15:08:08 379139: TRACE Debug page called
+2015-02-17 15:08:08 379990: TRACE Array accepted
+2015-02-17 15:08:08 380636: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:08 381193: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:08 382015: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:08 382620: TRACE Array accepted
+2015-02-17 15:08:08 383039: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:08 383458: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:08 384034: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:08 384524: TRACE Debug page ended
+2015-02-17 15:08:08 828093: TRACE Debug page called
+2015-02-17 15:08:08 830452: TRACE Array accepted
+2015-02-17 15:08:08 830998: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:08 831560: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:08 832090: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:08 832528: TRACE Array accepted
+2015-02-17 15:08:08 833005: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:08 833425: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:08 833878: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:08 834348: TRACE Debug page ended
+2015-02-17 15:08:09 177438: TRACE Debug page called
+2015-02-17 15:08:09 178263: TRACE Array accepted
+2015-02-17 15:08:09 178924: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:09 179454: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:09 180160: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:09 181135: TRACE Array accepted
+2015-02-17 15:08:09 181737: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:09 182201: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:09 182665: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:09 183150: TRACE Debug page ended
+2015-02-17 15:08:09 424798: TRACE Debug page called
+2015-02-17 15:08:09 425668: TRACE Array accepted
+2015-02-17 15:08:09 426322: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:09 426991: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:09 427671: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:09 428205: TRACE Array accepted
+2015-02-17 15:08:09 428773: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:09 429663: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:09 430204: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:09 430711: TRACE Debug page ended
+2015-02-17 15:08:09 695738: TRACE Debug page called
+2015-02-17 15:08:09 696573: TRACE Array accepted
+2015-02-17 15:08:09 697194: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:09 697748: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:09 698292: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:09 698855: TRACE Array accepted
+2015-02-17 15:08:09 699482: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:09 700300: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:09 700796: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:09 701257: TRACE Debug page ended
+2015-02-17 15:08:09 919610: TRACE Debug page called
+2015-02-17 15:08:09 920447: TRACE Array accepted
+2015-02-17 15:08:09 921090: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:09 921656: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:09 922360: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:09 922889: TRACE Array accepted
+2015-02-17 15:08:09 923363: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:09 923781: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:09 924191: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:09 924645: TRACE Debug page ended
+2015-02-17 15:08:10 153562: TRACE Debug page called
+2015-02-17 15:08:10 154452: TRACE Array accepted
+2015-02-17 15:08:10 154981: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:10 155490: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:10 156057: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:10 156551: TRACE Array accepted
+2015-02-17 15:08:10 157033: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:10 157504: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:10 157931: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:10 158491: TRACE Debug page ended
+2015-02-17 15:08:10 369407: TRACE Debug page called
+2015-02-17 15:08:10 371007: TRACE Array accepted
+2015-02-17 15:08:10 371559: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:10 372097: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:10 372717: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:10 373177: TRACE Array accepted
+2015-02-17 15:08:10 373647: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:10 374063: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:10 374550: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:10 375013: TRACE Debug page ended
+2015-02-17 15:08:10 598530: TRACE Debug page called
+2015-02-17 15:08:10 599324: TRACE Array accepted
+2015-02-17 15:08:10 600020: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:10 600514: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:10 601110: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:10 601566: TRACE Array accepted
+2015-02-17 15:08:10 602028: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:10 602496: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:10 602888: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:10 603347: TRACE Debug page ended
+2015-02-17 15:08:10 799204: TRACE Debug page called
+2015-02-17 15:08:10 800008: TRACE Array accepted
+2015-02-17 15:08:10 800542: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:10 801061: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:10 801668: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:10 802196: TRACE Array accepted
+2015-02-17 15:08:10 802771: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:10 803300: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:10 803749: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:10 804251: TRACE Debug page ended
+2015-02-17 15:08:11 042801: TRACE Debug page called
+2015-02-17 15:08:11 043599: TRACE Array accepted
+2015-02-17 15:08:11 044229: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:11 044683: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:11 045221: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:11 045702: TRACE Array accepted
+2015-02-17 15:08:11 046173: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:11 046646: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:11 047180: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:11 047606: TRACE Debug page ended
+2015-02-17 15:08:11 269640: TRACE Debug page called
+2015-02-17 15:08:11 270528: TRACE Array accepted
+2015-02-17 15:08:11 271132: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:08:11 271710: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:08:11 272421: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:08:11 273016: TRACE Array accepted
+2015-02-17 15:08:11 273450: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:08:11 273880: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:08:11 274302: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:08:11 274844: TRACE Debug page ended
+2015-02-17 15:12:20 117428: TRACE Debug page called
+2015-02-17 15:12:20 117924: TRACE Array accepted
+2015-02-17 15:12:20 119777: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:20 120282: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:20 120848: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:20 122252: TRACE Array accepted
+2015-02-17 15:12:20 122750: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:20 123244: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:20 123750: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:20 124236: TRACE Debug page ended
+2015-02-17 15:12:21 046899: TRACE Debug page called
+2015-02-17 15:12:21 047687: TRACE Array accepted
+2015-02-17 15:12:21 048325: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:21 048733: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:21 049228: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:21 049675: TRACE Array accepted
+2015-02-17 15:12:21 050155: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:21 050613: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:21 051100: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:21 051648: TRACE Debug page ended
+2015-02-17 15:12:21 700168: TRACE Debug page called
+2015-02-17 15:12:21 700969: TRACE Array accepted
+2015-02-17 15:12:21 701576: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:21 702172: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:21 702746: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:21 703356: TRACE Array accepted
+2015-02-17 15:12:21 703893: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:21 704424: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:21 704958: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:21 705524: TRACE Debug page ended
+2015-02-17 15:12:22 488672: TRACE Debug page called
+2015-02-17 15:12:22 489640: TRACE Array accepted
+2015-02-17 15:12:22 490371: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:22 491043: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:22 491761: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:22 492399: TRACE Array accepted
+2015-02-17 15:12:22 493071: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:22 493894: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:22 494520: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:22 495113: TRACE Debug page ended
+2015-02-17 15:12:23 040508: TRACE Debug page called
+2015-02-17 15:12:23 041307: TRACE Array accepted
+2015-02-17 15:12:23 041881: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:23 042421: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:23 042983: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:23 043502: TRACE Array accepted
+2015-02-17 15:12:23 043927: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:23 044355: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:23 044787: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:23 045335: TRACE Debug page ended
+2015-02-17 15:12:23 579738: TRACE Debug page called
+2015-02-17 15:12:23 580673: TRACE Array accepted
+2015-02-17 15:12:23 581320: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:23 581867: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:23 582511: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:23 583056: TRACE Array accepted
+2015-02-17 15:12:23 583577: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:23 584049: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:23 584545: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:23 585036: TRACE Debug page ended
+2015-02-17 15:12:24 185008: TRACE Debug page called
+2015-02-17 15:12:24 185794: TRACE Array accepted
+2015-02-17 15:12:24 186343: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:24 186873: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:24 187432: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:24 187875: TRACE Array accepted
+2015-02-17 15:12:24 188321: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:24 188783: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:24 189245: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:24 189686: TRACE Debug page ended
+2015-02-17 15:12:24 455772: TRACE Debug page called
+2015-02-17 15:12:24 456627: TRACE Array accepted
+2015-02-17 15:12:24 457301: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:24 457989: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:24 458943: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:24 459578: TRACE Array accepted
+2015-02-17 15:12:24 460126: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:24 460602: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:24 461095: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:24 461593: TRACE Debug page ended
+2015-02-17 15:12:45 408098: TRACE Debug page called
+2015-02-17 15:12:45 408480: TRACE Array accepted
+2015-02-17 15:12:45 409131: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:12:45 409713: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:12:45 410862: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:12:45 411499: TRACE Array accepted
+2015-02-17 15:12:45 412012: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:12:45 412511: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:12:45 413002: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:12:45 413528: TRACE Debug page ended
+2015-02-17 15:14:49 013628: TRACE Debug page called
+2015-02-17 15:14:49 014079: TRACE Array accepted
+2015-02-17 15:14:49 014874: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:14:49 015477: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:14:49 016108: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:14:49 016673: TRACE Array accepted
+2015-02-17 15:14:49 017148: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:14:49 017615: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:14:49 018087: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:14:49 018583: TRACE Debug page ended
+2015-02-17 15:15:19 379027: TRACE Debug page called
+2015-02-17 15:15:19 379427: TRACE Array accepted
+2015-02-17 15:15:19 380053: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:15:19 380556: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:15:19 381177: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:15:19 381769: TRACE Array accepted
+2015-02-17 15:15:19 382326: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:15:19 382761: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:15:19 383210: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:15:19 383730: TRACE Debug page ended
+2015-02-17 15:16:18 928234: TRACE Debug page called
+2015-02-17 15:16:18 928623: TRACE Array accepted
+2015-02-17 15:16:18 929364: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:16:18 929895: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:16:18 930448: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:16:18 930918: TRACE Array accepted
+2015-02-17 15:16:18 931352: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:16:18 931761: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:16:18 932218: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:16:18 932672: TRACE Debug page ended
+2015-02-17 15:16:48 817860: TRACE Debug page called
+2015-02-17 15:16:48 818259: TRACE Array accepted
+2015-02-17 15:16:48 819013: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:16:48 819569: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:16:48 820280: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:16:48 821014: TRACE Array accepted
+2015-02-17 15:16:48 821566: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:16:48 822059: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:16:48 822643: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:16:48 823142: TRACE Debug page ended
+2015-02-17 15:17:07 392326: TRACE Debug page called
+2015-02-17 15:17:07 392712: TRACE Array accepted
+2015-02-17 15:17:07 393361: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:17:07 393801: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:17:07 394274: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:17:07 394710: TRACE Array accepted
+2015-02-17 15:17:07 395142: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:17:07 395588: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:17:07 396043: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:17:07 396492: TRACE Debug page ended
+2015-02-17 15:17:31 883404: TRACE Debug page called
+2015-02-17 15:17:31 883776: TRACE Array accepted
+2015-02-17 15:17:31 884414: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:17:31 884981: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:17:31 885571: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:17:31 886063: TRACE Array accepted
+2015-02-17 15:17:31 886556: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:17:31 887022: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:17:31 887458: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:17:31 887951: TRACE Debug page ended
+2015-02-17 15:18:46 949126: TRACE Debug page called
+2015-02-17 15:18:46 950990: TRACE Array accepted
+2015-02-17 15:18:46 951702: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:18:46 952585: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:18:46 953203: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:18:46 953735: TRACE Array accepted
+2015-02-17 15:18:46 954169: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:18:46 954616: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:18:46 955239: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:18:46 955676: TRACE Debug page ended
+2015-02-17 15:19:42 591787: TRACE Debug page called
+2015-02-17 15:19:42 592169: TRACE Array accepted
+2015-02-17 15:19:42 592881: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:19:42 593310: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:19:42 593934: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:19:42 594379: TRACE Array accepted
+2015-02-17 15:19:42 594864: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:19:42 595359: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:19:42 595823: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:19:42 596277: TRACE Debug page ended
+2015-02-17 15:20:11 119283: TRACE Debug page called
+2015-02-17 15:20:11 119631: TRACE Array accepted
+2015-02-17 15:20:11 120266: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:20:11 120830: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:20:11 121446: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:20:11 122096: TRACE Array accepted
+2015-02-17 15:20:11 122586: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:20:11 123028: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:20:11 123474: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:20:11 123936: TRACE Debug page ended
+2015-02-17 15:20:35 509533: TRACE Debug page called
+2015-02-17 15:20:35 509901: TRACE Array accepted
+2015-02-17 15:20:35 510549: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:20:35 511070: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:20:35 511688: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:20:35 512131: TRACE Array accepted
+2015-02-17 15:20:35 512576: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:20:35 513043: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:20:35 513499: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:20:35 513947: TRACE Debug page ended
+2015-02-17 15:21:03 500604: TRACE Debug page called
+2015-02-17 15:21:03 500951: TRACE Array accepted
+2015-02-17 15:21:03 501680: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:21:03 502272: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:21:03 503252: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:21:03 503884: TRACE Array accepted
+2015-02-17 15:21:03 504360: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:21:03 504834: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:21:03 505309: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:21:03 505756: TRACE Debug page ended
+2015-02-17 15:21:53 698791: TRACE Debug page called
+2015-02-17 15:21:53 699159: TRACE Array accepted
+2015-02-17 15:21:53 699909: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:21:53 700517: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:21:53 701276: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:21:53 701877: TRACE Array accepted
+2015-02-17 15:21:53 702377: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:21:53 702813: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:21:53 703249: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:21:53 703767: TRACE Debug page ended
+2015-02-17 15:22:42 443983: TRACE Debug page called
+2015-02-17 15:22:42 444385: TRACE Array accepted
+2015-02-17 15:22:42 446196: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:22:42 446782: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:22:42 447487: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:22:42 447986: TRACE Array accepted
+2015-02-17 15:22:42 448527: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:22:42 449024: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:22:42 449460: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:22:42 449974: TRACE Debug page ended
+2015-02-17 15:23:32 890025: TRACE Debug page called
+2015-02-17 15:23:32 890506: TRACE Array accepted
+2015-02-17 15:23:32 891213: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:23:32 891677: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:23:32 892281: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:23:32 892767: TRACE Array accepted
+2015-02-17 15:23:32 893220: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:23:32 893679: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:23:32 894121: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:23:32 894593: TRACE Debug page ended
+2015-02-17 15:23:40 509027: TRACE Debug page called
+2015-02-17 15:23:40 509397: TRACE Array accepted
+2015-02-17 15:23:40 510001: TRACE Array rule: key=Number1 & value=1
+2015-02-17 15:23:40 510459: TRACE Array rule: key=Number2 & value=2
+2015-02-17 15:23:40 511011: TRACE Array rule: key=Array & value=Array
+2015-02-17 15:23:40 511583: TRACE Array accepted
+2015-02-17 15:23:40 512069: TRACE Array rule: key=Number3 & value=3
+2015-02-17 15:23:40 513030: TRACE Array rule: key=Text & value=Four
+2015-02-17 15:23:40 513740: TRACE Array rule: key=Text & value=The end
+2015-02-17 15:23:40 514205: TRACE Debug page ended
+2015-02-17 15:27:11 629916: TRACE Debug page called
+2015-02-17 15:27:11 630363: TRACE Array accepted
+2015-02-17 15:27:11 630987: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:27:11 631457: TRACE Debug $_REQUEST
+2015-02-17 15:27:11 631930: TRACE Array accepted
+2015-02-17 15:27:11 632371: TRACE Debug $_POST
+2015-02-17 15:27:11 632754: TRACE Array accepted
+2015-02-17 15:27:11 633206: TRACE Debug $_GET
+2015-02-17 15:30:44 438694: TRACE Debug page called
+2015-02-17 15:30:44 439734: TRACE Array accepted
+2015-02-17 15:30:44 440586: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:30:44 441119: TRACE Debug $_REQUEST
+2015-02-17 15:30:44 441572: TRACE Array accepted
+2015-02-17 15:30:44 441989: TRACE Debug $_POST
+2015-02-17 15:30:44 442454: TRACE Array accepted
+2015-02-17 15:30:44 442946: TRACE Debug $_GET
+2015-02-17 15:31:47 182304: TRACE Debug page called
+2015-02-17 15:31:47 182739: TRACE Array accepted
+2015-02-17 15:31:47 183414: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:31:47 183932: TRACE Debug $_REQUEST
+2015-02-17 15:31:47 184442: TRACE Array accepted
+2015-02-17 15:31:47 184903: TRACE Debug $_POST
+2015-02-17 15:31:47 185374: TRACE Array accepted
+2015-02-17 15:31:47 185798: TRACE Debug $_GET
+2015-02-17 15:31:47 186272: TRACE Array accepted
+2015-02-17 15:31:47 186697: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:31:47 187142: TRACE Debug $_COOKIE
+2015-02-17 15:32:19 104931: TRACE Debug page called
+2015-02-17 15:32:19 105448: TRACE Array accepted
+2015-02-17 15:32:19 106090: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:32:19 106674: TRACE Debug $_REQUEST
+2015-02-17 15:32:19 107242: TRACE Array accepted
+2015-02-17 15:32:19 107728: TRACE Debug $_POST
+2015-02-17 15:32:19 108363: TRACE Array accepted
+2015-02-17 15:32:19 108859: TRACE Debug $_GET
+2015-02-17 15:32:19 109312: TRACE Array accepted
+2015-02-17 15:32:19 109761: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:32:19 110230: TRACE Debug $_COOKIE
+2015-02-17 15:35:25 087246: TRACE Debug page called
+2015-02-17 15:35:25 087751: TRACE Array accepted
+2015-02-17 15:35:25 088433: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:35:25 088931: TRACE Debug $_REQUEST
+2015-02-17 15:35:25 089403: TRACE Array accepted
+2015-02-17 15:35:25 089871: TRACE Debug $_POST
+2015-02-17 15:35:25 090335: TRACE Array accepted
+2015-02-17 15:35:25 091229: TRACE Debug $_GET
+2015-02-17 15:35:25 091875: TRACE Array accepted
+2015-02-17 15:35:25 092343: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:35:25 092842: TRACE Debug $_COOKIE
+2015-02-17 15:43:12 651429: TRACE Debug page called
+2015-02-17 15:43:12 652039: TRACE Array accepted
+2015-02-17 15:43:12 652620: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:12 653128: TRACE Debug $_REQUEST
+2015-02-17 15:43:12 653578: TRACE Array accepted
+2015-02-17 15:43:12 654008: TRACE Debug $_POST
+2015-02-17 15:43:12 654522: TRACE Array accepted
+2015-02-17 15:43:12 654991: TRACE Debug $_GET
+2015-02-17 15:43:12 655430: TRACE Array accepted
+2015-02-17 15:43:12 655851: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:12 656261: TRACE Debug $_COOKIE
+2015-02-17 15:43:12 656709: TRACE Array accepted
+2015-02-17 15:43:12 657124: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:43:12 657615: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:43:12 658042: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:43:12 658506: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:43:12 658919: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:43:12 659366: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:43:12 659807: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:43:12 660265: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:43:12 660691: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:43:12 661113: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:43:12 661545: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:43:12 661981: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:43:12 662419: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:43:12 662804: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:43:12 663342: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:43:12 663862: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:43:12 664434: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:43:12 664984: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:43:12 665528: TRACE Debug $_ENV
+2015-02-17 15:43:12 666017: TRACE Array accepted
+2015-02-17 15:43:12 666483: TRACE Debug $_FILES
+2015-02-17 15:43:12 667065: TRACE Array denied
+2015-02-17 15:43:12 667490: TRACE Debug $_SESSION
+2015-02-17 15:43:34 637816: TRACE Debug page called
+2015-02-17 15:43:34 638105: TRACE Array accepted
+2015-02-17 15:43:34 638784: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:34 639290: TRACE Debug $_REQUEST
+2015-02-17 15:43:34 639811: TRACE Array accepted
+2015-02-17 15:43:34 640515: TRACE Debug $_POST
+2015-02-17 15:43:34 640997: TRACE Array accepted
+2015-02-17 15:43:34 641528: TRACE Debug $_GET
+2015-02-17 15:43:34 642066: TRACE Array accepted
+2015-02-17 15:43:34 642483: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:34 642892: TRACE Debug $_COOKIE
+2015-02-17 15:43:34 643332: TRACE Array accepted
+2015-02-17 15:43:34 643809: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:43:34 644305: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:43:34 644928: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:43:34 645404: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:43:34 645835: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:43:34 646281: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:43:34 646802: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:43:34 647260: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:43:34 647688: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:43:34 648149: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:43:34 648771: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:43:34 649229: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:43:34 649672: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:43:34 650148: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:43:34 650590: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:43:34 651046: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:43:34 651518: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:43:34 652046: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:43:34 652507: TRACE Debug $_ENV
+2015-02-17 15:43:34 652965: TRACE Array accepted
+2015-02-17 15:43:34 653384: TRACE Debug $_FILES
+2015-02-17 15:43:34 653906: TRACE Array denied
+2015-02-17 15:43:34 654403: TRACE Debug $_SESSION
+2015-02-17 15:43:34 654840: TRACE Array accepted
+2015-02-17 15:43:34 655279: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:43:34 655732: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:43:34 656150: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:43:34 656542: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:43:34 656922: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:43:34 657314: TRACE Array rule: key=HTTP_REFERER & value=http://localhost:8888/sb/login.php
+2015-02-17 15:43:34 657709: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:34 658101: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:43:34 658490: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:43:34 658905: TRACE Array rule: key=CONTENT_TYPE & value=application/x-www-form-urlencoded
+2015-02-17 15:43:34 659317: TRACE Array rule: key=CONTENT_LENGTH & value=0
+2015-02-17 15:43:34 659706: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:43:34 660086: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:43:34 660436: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:43:34 660796: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:43:34 661192: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:43:34 661571: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:43:34 661932: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:43:34 662321: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:43:34 662704: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:43:34 663081: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/login.php
+2015-02-17 15:43:34 663453: TRACE Array rule: key=REMOTE_PORT & value=51589
+2015-02-17 15:43:34 663906: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:43:34 664302: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:43:34 664712: TRACE Array rule: key=REQUEST_METHOD & value=POST
+2015-02-17 15:43:34 665100: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:43:34 665474: TRACE Array rule: key=REQUEST_URI & value=/sb/login.php
+2015-02-17 15:43:34 665832: TRACE Array rule: key=SCRIPT_NAME & value=/sb/login.php
+2015-02-17 15:43:34 666207: TRACE Array rule: key=PHP_SELF & value=/sb/login.php
+2015-02-17 15:43:34 666559: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424184214.64
+2015-02-17 15:43:34 666934: TRACE Array rule: key=REQUEST_TIME & value=1424184214
+2015-02-17 15:43:34 667366: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:43:34 667762: TRACE Array accepted
+2015-02-17 15:43:34 668142: TRACE Array rule: key=argc & value=0
+2015-02-17 15:43:34 668742: TRACE Debug $_SERVER
+2015-02-17 15:43:45 901365: TRACE Debug page called
+2015-02-17 15:43:45 901695: TRACE Array accepted
+2015-02-17 15:43:45 902389: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:45 902968: TRACE Debug $_REQUEST
+2015-02-17 15:43:45 903628: TRACE Array accepted
+2015-02-17 15:43:45 904129: TRACE Debug $_POST
+2015-02-17 15:43:45 904599: TRACE Array accepted
+2015-02-17 15:43:45 905022: TRACE Debug $_GET
+2015-02-17 15:43:45 905436: TRACE Array accepted
+2015-02-17 15:43:45 905926: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:45 906339: TRACE Debug $_COOKIE
+2015-02-17 15:43:45 906756: TRACE Array accepted
+2015-02-17 15:43:45 907202: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:43:45 907658: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:43:45 908090: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:43:45 908590: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:43:45 909040: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:43:45 909517: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:43:45 909938: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:43:45 910346: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:43:45 910796: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:43:45 911201: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:43:45 911613: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:43:45 912109: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:43:45 912595: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:43:45 913032: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:43:45 913425: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:43:45 913857: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:43:45 914253: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:43:45 914697: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:43:45 915120: TRACE Debug $_ENV
+2015-02-17 15:43:45 915574: TRACE Array accepted
+2015-02-17 15:43:45 916032: TRACE Debug $_FILES
+2015-02-17 15:43:45 916493: TRACE Array denied
+2015-02-17 15:43:45 916926: TRACE Debug $_SESSION
+2015-02-17 15:43:45 917302: TRACE Array accepted
+2015-02-17 15:43:45 917670: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:43:45 918022: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:43:45 918378: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:43:45 918747: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:43:45 919123: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:43:45 919468: TRACE Array rule: key=HTTP_REFERER & value=http://localhost:8888/sb/login.php
+2015-02-17 15:43:45 919824: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:43:45 920205: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:43:45 920557: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:43:45 920922: TRACE Array rule: key=CONTENT_TYPE & value=application/x-www-form-urlencoded
+2015-02-17 15:43:45 921310: TRACE Array rule: key=CONTENT_LENGTH & value=0
+2015-02-17 15:43:45 921671: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:43:45 922056: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:43:45 922523: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:43:45 922914: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:43:45 923283: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:43:45 923682: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:43:45 924075: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:43:45 924486: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:43:45 924883: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:43:45 925361: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/login.php
+2015-02-17 15:43:45 925857: TRACE Array rule: key=REMOTE_PORT & value=51603
+2015-02-17 15:43:45 926341: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:43:45 926803: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:43:45 927223: TRACE Array rule: key=REQUEST_METHOD & value=POST
+2015-02-17 15:43:45 927707: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:43:45 928184: TRACE Array rule: key=REQUEST_URI & value=/sb/login.php
+2015-02-17 15:43:45 928660: TRACE Array rule: key=SCRIPT_NAME & value=/sb/login.php
+2015-02-17 15:43:45 929161: TRACE Array rule: key=PHP_SELF & value=/sb/login.php
+2015-02-17 15:43:45 929823: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424184225.9
+2015-02-17 15:43:45 930261: TRACE Array rule: key=REQUEST_TIME & value=1424184225
+2015-02-17 15:43:45 930901: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:43:45 931362: TRACE Array accepted
+2015-02-17 15:43:45 931930: TRACE Array rule: key=argc & value=0
+2015-02-17 15:43:45 932569: TRACE Debug $_SERVER
+2015-02-17 15:51:36 552963: TRACE Debug page called
+2015-02-17 15:51:36 553318: TRACE Array accepted
+2015-02-17 15:51:36 554010: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:51:36 554632: TRACE Debug $_REQUEST
+2015-02-17 15:51:36 555193: TRACE Array accepted
+2015-02-17 15:51:36 555682: TRACE Debug $_POST
+2015-02-17 15:51:36 556222: TRACE Array accepted
+2015-02-17 15:51:36 556705: TRACE Debug $_GET
+2015-02-17 15:51:36 557182: TRACE Array accepted
+2015-02-17 15:51:36 557682: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:51:36 558116: TRACE Debug $_COOKIE
+2015-02-17 15:51:36 558554: TRACE Array accepted
+2015-02-17 15:51:36 559046: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:51:36 559525: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:51:36 559951: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:51:36 560372: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:51:36 560787: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:51:36 561226: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:51:36 561679: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:51:36 562232: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:51:36 562682: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:51:36 563176: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:51:36 563737: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:51:36 564192: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:51:36 564724: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:51:36 565241: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:51:36 565987: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:51:36 566739: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:51:36 567212: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:51:36 567802: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:51:36 568314: TRACE Debug $_ENV
+2015-02-17 15:51:36 568773: TRACE Array accepted
+2015-02-17 15:51:36 569259: TRACE Debug $_FILES
+2015-02-17 15:51:36 569903: TRACE Array denied
+2015-02-17 15:51:36 570373: TRACE Debug $_SESSION
+2015-02-17 15:51:36 570830: TRACE Array accepted
+2015-02-17 15:51:36 571320: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:51:36 571764: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:51:36 572221: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:51:36 572688: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:51:36 573171: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:51:36 573625: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:51:36 574092: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:51:36 574540: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:51:36 574952: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:51:36 575331: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:51:36 575705: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:51:36 576096: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:51:36 576472: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:51:36 576848: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:51:36 577220: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:51:36 577582: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:51:36 577953: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:51:36 578374: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/debug.php
+2015-02-17 15:51:36 578750: TRACE Array rule: key=REMOTE_PORT & value=52336
+2015-02-17 15:51:36 579124: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:51:36 579491: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:51:36 579857: TRACE Array rule: key=REQUEST_METHOD & value=GET
+2015-02-17 15:51:36 580223: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:51:36 580586: TRACE Array rule: key=REQUEST_URI & value=/sb/debug.php
+2015-02-17 15:51:36 580968: TRACE Array rule: key=SCRIPT_NAME & value=/sb/debug.php
+2015-02-17 15:51:36 581332: TRACE Array rule: key=PHP_SELF & value=/sb/debug.php
+2015-02-17 15:51:36 581707: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424184696.55
+2015-02-17 15:51:36 582048: TRACE Array rule: key=REQUEST_TIME & value=1424184696
+2015-02-17 15:51:36 582452: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:51:36 582865: TRACE Array accepted
+2015-02-17 15:51:36 583242: TRACE Array rule: key=argc & value=0
+2015-02-17 15:51:36 583585: TRACE Debug $_SERVER
+2015-02-17 15:53:55 652386: TRACE Debug page called
+2015-02-17 15:53:55 652686: TRACE Array accepted
+2015-02-17 15:53:55 653372: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:53:55 653925: TRACE Debug $_REQUEST
+2015-02-17 15:53:55 654389: TRACE Array accepted
+2015-02-17 15:53:55 654864: TRACE Debug $_POST
+2015-02-17 15:53:55 655341: TRACE Array accepted
+2015-02-17 15:53:55 655808: TRACE Debug $_GET
+2015-02-17 15:53:55 656245: TRACE Array accepted
+2015-02-17 15:53:55 656673: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:53:55 657097: TRACE Debug $_COOKIE
+2015-02-17 15:53:55 657603: TRACE Array accepted
+2015-02-17 15:53:55 658070: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:53:55 658610: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:53:55 659076: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:53:55 659488: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:53:55 660002: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:53:55 660425: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:53:55 660826: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:53:55 661255: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:53:55 661707: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:53:55 662091: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:53:55 662858: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:53:55 663675: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:53:55 664134: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:53:55 664603: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:53:55 665067: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:53:55 665479: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:53:55 665883: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:53:55 666246: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:53:55 666618: TRACE Debug $_ENV
+2015-02-17 15:53:55 667031: TRACE Array accepted
+2015-02-17 15:53:55 667412: TRACE Debug $_FILES
+2015-02-17 15:53:55 667834: TRACE Array denied
+2015-02-17 15:53:55 668187: TRACE Debug $_SESSION
+2015-02-17 15:53:55 668550: TRACE Array accepted
+2015-02-17 15:53:55 668938: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:53:55 669303: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:53:55 669666: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:53:55 670057: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:53:55 670447: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:53:55 670866: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:53:55 671259: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:53:55 671621: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:53:55 672014: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:53:55 672395: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:53:55 672764: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:53:55 673192: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:53:55 673563: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:53:55 673956: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:53:55 674333: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:53:55 674713: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:53:55 675092: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:53:55 675460: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/debug.php
+2015-02-17 15:53:55 675817: TRACE Array rule: key=REMOTE_PORT & value=52508
+2015-02-17 15:53:55 676154: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:53:55 676481: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:53:55 676858: TRACE Array rule: key=REQUEST_METHOD & value=GET
+2015-02-17 15:53:55 677246: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:53:55 677625: TRACE Array rule: key=REQUEST_URI & value=/sb/debug.php
+2015-02-17 15:53:55 678000: TRACE Array rule: key=SCRIPT_NAME & value=/sb/debug.php
+2015-02-17 15:53:55 678366: TRACE Array rule: key=PHP_SELF & value=/sb/debug.php
+2015-02-17 15:53:55 678745: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424184835.65
+2015-02-17 15:53:55 679121: TRACE Array rule: key=REQUEST_TIME & value=1424184835
+2015-02-17 15:53:55 679568: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:53:55 679959: TRACE Array accepted
+2015-02-17 15:53:55 680338: TRACE Array rule: key=argc & value=0
+2015-02-17 15:53:55 680708: TRACE Debug $_SERVER
+2015-02-17 15:54:08 070114: TRACE Debug page called
+2015-02-17 15:54:08 070422: TRACE Array accepted
+2015-02-17 15:54:08 070990: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:08 071508: TRACE Debug $_REQUEST
+2015-02-17 15:54:08 071934: TRACE Array accepted
+2015-02-17 15:54:08 072443: TRACE Debug $_POST
+2015-02-17 15:54:08 072942: TRACE Array accepted
+2015-02-17 15:54:08 073478: TRACE Debug $_GET
+2015-02-17 15:54:08 074045: TRACE Array accepted
+2015-02-17 15:54:08 074549: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:08 074975: TRACE Debug $_COOKIE
+2015-02-17 15:54:08 075433: TRACE Array accepted
+2015-02-17 15:54:08 075898: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:54:08 076327: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:54:08 076904: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:54:08 077398: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:54:08 077877: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:54:08 078302: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:54:08 078716: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:54:08 079208: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:54:08 079705: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:54:08 080123: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:54:08 080556: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:54:08 081141: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:54:08 081685: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:54:08 082185: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:54:08 082679: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:54:08 083133: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:54:08 083579: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:54:08 084017: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:54:08 084471: TRACE Debug $_ENV
+2015-02-17 15:54:08 085024: TRACE Array accepted
+2015-02-17 15:54:08 085514: TRACE Debug $_FILES
+2015-02-17 15:54:08 086025: TRACE Array denied
+2015-02-17 15:54:08 086516: TRACE Debug $_SESSION
+2015-02-17 15:54:08 086954: TRACE Array accepted
+2015-02-17 15:54:08 087448: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:54:08 087869: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:54:08 088319: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:54:08 088795: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:54:08 089230: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:54:08 089712: TRACE Array rule: key=HTTP_REFERER & value=http://localhost:8888/sb/login.php
+2015-02-17 15:54:08 090123: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:08 090575: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:54:08 091061: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:54:08 091627: TRACE Array rule: key=CONTENT_TYPE & value=application/x-www-form-urlencoded
+2015-02-17 15:54:08 092044: TRACE Array rule: key=CONTENT_LENGTH & value=0
+2015-02-17 15:54:08 092528: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:54:08 092972: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:54:08 093404: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:54:08 093868: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:54:08 094284: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:54:08 094696: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:54:08 095106: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:54:08 095521: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:54:08 095976: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:54:08 096403: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/login.php
+2015-02-17 15:54:08 096811: TRACE Array rule: key=REMOTE_PORT & value=52531
+2015-02-17 15:54:08 097236: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:54:08 097646: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:54:08 098110: TRACE Array rule: key=REQUEST_METHOD & value=POST
+2015-02-17 15:54:08 098617: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:54:08 099063: TRACE Array rule: key=REQUEST_URI & value=/sb/login.php
+2015-02-17 15:54:08 099481: TRACE Array rule: key=SCRIPT_NAME & value=/sb/login.php
+2015-02-17 15:54:08 099894: TRACE Array rule: key=PHP_SELF & value=/sb/login.php
+2015-02-17 15:54:08 100332: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424184848.07
+2015-02-17 15:54:08 100753: TRACE Array rule: key=REQUEST_TIME & value=1424184848
+2015-02-17 15:54:08 101197: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:54:08 101570: TRACE Array accepted
+2015-02-17 15:54:08 101994: TRACE Array rule: key=argc & value=0
+2015-02-17 15:54:08 102494: TRACE Debug $_SERVER
+2015-02-17 15:54:14 437349: TRACE Debug page called
+2015-02-17 15:54:14 437688: TRACE Array accepted
+2015-02-17 15:54:14 438300: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:14 438804: TRACE Debug $_REQUEST
+2015-02-17 15:54:14 439335: TRACE Array accepted
+2015-02-17 15:54:14 439854: TRACE Debug $_POST
+2015-02-17 15:54:14 440405: TRACE Array accepted
+2015-02-17 15:54:14 440912: TRACE Debug $_GET
+2015-02-17 15:54:14 441407: TRACE Array accepted
+2015-02-17 15:54:14 441886: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:14 442366: TRACE Debug $_COOKIE
+2015-02-17 15:54:14 442783: TRACE Array accepted
+2015-02-17 15:54:14 443249: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:54:14 443698: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:54:14 444176: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:54:14 444593: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:54:14 444984: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:54:14 445400: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:54:14 445801: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:54:14 446204: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:54:14 446626: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:54:14 447039: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:54:14 447489: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:54:14 447915: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:54:14 448483: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:54:14 448937: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:54:14 449339: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:54:14 449748: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:54:14 450121: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:54:14 450514: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:54:14 450904: TRACE Debug $_ENV
+2015-02-17 15:54:14 451308: TRACE Array accepted
+2015-02-17 15:54:14 451711: TRACE Debug $_FILES
+2015-02-17 15:54:14 452171: TRACE Array denied
+2015-02-17 15:54:14 452546: TRACE Debug $_SESSION
+2015-02-17 15:54:14 452941: TRACE Array accepted
+2015-02-17 15:54:14 453355: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:54:14 453737: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:54:14 454100: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:54:14 454484: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:54:14 454912: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:54:14 455303: TRACE Array rule: key=HTTP_REFERER & value=http://localhost:8888/sb/login.php
+2015-02-17 15:54:14 455707: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:14 456095: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:54:14 456457: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:54:14 456854: TRACE Array rule: key=CONTENT_TYPE & value=application/x-www-form-urlencoded
+2015-02-17 15:54:14 457210: TRACE Array rule: key=CONTENT_LENGTH & value=0
+2015-02-17 15:54:14 457569: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:54:14 457956: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:54:14 458337: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:54:14 458721: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:54:14 459182: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:54:14 459588: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:54:14 459957: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:54:14 460344: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:54:14 460713: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:54:14 461090: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/login.php
+2015-02-17 15:54:14 461468: TRACE Array rule: key=REMOTE_PORT & value=52540
+2015-02-17 15:54:14 461853: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:54:14 462238: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:54:14 462693: TRACE Array rule: key=REQUEST_METHOD & value=POST
+2015-02-17 15:54:14 463111: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:54:14 463538: TRACE Array rule: key=REQUEST_URI & value=/sb/login.php
+2015-02-17 15:54:14 463956: TRACE Array rule: key=SCRIPT_NAME & value=/sb/login.php
+2015-02-17 15:54:14 464376: TRACE Array rule: key=PHP_SELF & value=/sb/login.php
+2015-02-17 15:54:14 464815: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424184854.44
+2015-02-17 15:54:14 465217: TRACE Array rule: key=REQUEST_TIME & value=1424184854
+2015-02-17 15:54:14 465731: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:54:14 466236: TRACE Array accepted
+2015-02-17 15:54:14 466728: TRACE Array rule: key=argc & value=0
+2015-02-17 15:54:14 467322: TRACE Debug $_SERVER
+2015-02-17 15:54:57 187650: TRACE Debug page called
+2015-02-17 15:54:57 187889: TRACE Array accepted
+2015-02-17 15:54:57 188534: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:57 189040: TRACE Debug $_REQUEST
+2015-02-17 15:54:57 189492: TRACE Array accepted
+2015-02-17 15:54:57 189993: TRACE Debug $_POST
+2015-02-17 15:54:57 190492: TRACE Array accepted
+2015-02-17 15:54:57 190942: TRACE Debug $_GET
+2015-02-17 15:54:57 191458: TRACE Array accepted
+2015-02-17 15:54:57 191928: TRACE Array rule: key=PHPSESSID & value=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:57 192375: TRACE Debug $_COOKIE
+2015-02-17 15:54:57 192869: TRACE Array accepted
+2015-02-17 15:54:57 193307: TRACE Array rule: key=SHELL & value=/bin/bash
+2015-02-17 15:54:57 193778: TRACE Array rule: key=TMPDIR & value=/var/folders/fk/l4v05hp150j2zxd6k8frxfqh0000gn/T/
+2015-02-17 15:54:57 194233: TRACE Array rule: key=Apple_PubSub_Socket_Render & value=/private/tmp/com.apple.launchd.I4mUakZo4M/Render
+2015-02-17 15:54:57 194646: TRACE Array rule: key=USER & value=jeroenbouman
+2015-02-17 15:54:57 195052: TRACE Array rule: key=COMMAND_MODE & value=unix2003
+2015-02-17 15:54:57 195446: TRACE Array rule: key=SSH_AUTH_SOCK & value=/private/tmp/com.apple.launchd.1U6rYIjs3m/Listeners
+2015-02-17 15:54:57 195847: TRACE Array rule: key=__CF_USER_TEXT_ENCODING & value=0x1F5:0x0:0x0
+2015-02-17 15:54:57 196232: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:54:57 196695: TRACE Array rule: key=PWD & value=/
+2015-02-17 15:54:57 197159: TRACE Array rule: key=DBUS_LAUNCHD_SESSION_BUS_SOCKET & value=/private/tmp/com.apple.launchd.MydmpvrLEI/unix_domain_listener
+2015-02-17 15:54:57 197601: TRACE Array rule: key=XPC_FLAGS & value=0x0
+2015-02-17 15:54:57 198015: TRACE Array rule: key=XPC_SERVICE_NAME & value=0
+2015-02-17 15:54:57 198557: TRACE Array rule: key=HOME & value=/Users/jeroenbouman
+2015-02-17 15:54:57 198989: TRACE Array rule: key=SHLVL & value=2
+2015-02-17 15:54:57 199405: TRACE Array rule: key=LOGNAME & value=jeroenbouman
+2015-02-17 15:54:57 199861: TRACE Array rule: key=DISPLAY & value=/private/tmp/com.apple.launchd.nEvvShMzuR/org.macosforge.xquartz:0
+2015-02-17 15:54:57 200350: TRACE Array rule: key=SECURITYSESSIONID & value=186a5
+2015-02-17 15:54:57 200920: TRACE Array rule: key=_ & value=/Applications/MAMP/Library/bin/httpd
+2015-02-17 15:54:57 201419: TRACE Debug $_ENV
+2015-02-17 15:54:57 201928: TRACE Array accepted
+2015-02-17 15:54:57 202373: TRACE Debug $_FILES
+2015-02-17 15:54:57 202948: TRACE Array denied
+2015-02-17 15:54:57 203396: TRACE Debug $_SESSION
+2015-02-17 15:54:57 203804: TRACE Array accepted
+2015-02-17 15:54:57 204362: TRACE Array rule: key=HTTP_HOST & value=localhost:8888
+2015-02-17 15:54:57 204884: TRACE Array rule: key=HTTP_USER_AGENT & value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:35.0) Gecko/20100101 Firefox/35.0
+2015-02-17 15:54:57 205363: TRACE Array rule: key=HTTP_ACCEPT & value=text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+2015-02-17 15:54:57 205862: TRACE Array rule: key=HTTP_ACCEPT_LANGUAGE & value=en-GB,en;q=0.8,EN;q=0.7,nl-NL;q=0.5,nl;q=0.3,en;q=0.2
+2015-02-17 15:54:57 206336: TRACE Array rule: key=HTTP_ACCEPT_ENCODING & value=gzip, deflate
+2015-02-17 15:54:57 206791: TRACE Array rule: key=HTTP_REFERER & value=http://localhost:8888/sb/login.php
+2015-02-17 15:54:57 207178: TRACE Array rule: key=HTTP_COOKIE & value=PHPSESSID=6da9ec85831be60673badf6ab2a0c984
+2015-02-17 15:54:57 207572: TRACE Array rule: key=HTTP_CONNECTION & value=keep-alive
+2015-02-17 15:54:57 207957: TRACE Array rule: key=HTTP_CACHE_CONTROL & value=max-age=0
+2015-02-17 15:54:57 208342: TRACE Array rule: key=CONTENT_TYPE & value=application/x-www-form-urlencoded
+2015-02-17 15:54:57 208713: TRACE Array rule: key=CONTENT_LENGTH & value=0
+2015-02-17 15:54:57 209169: TRACE Array rule: key=PATH & value=/usr/bin:/bin:/usr/sbin:/sbin
+2015-02-17 15:54:57 209602: TRACE Array rule: key=SERVER_SIGNATURE & value=
+2015-02-17 15:54:57 210001: TRACE Array rule: key=SERVER_SOFTWARE & value=Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8zc DAV/2 mod_perl/2.0.8 Perl/v5.20.0
+2015-02-17 15:54:57 210491: TRACE Array rule: key=SERVER_NAME & value=localhost
+2015-02-17 15:54:57 210898: TRACE Array rule: key=SERVER_ADDR & value=127.0.0.1
+2015-02-17 15:54:57 211319: TRACE Array rule: key=SERVER_PORT & value=8888
+2015-02-17 15:54:57 211730: TRACE Array rule: key=REMOTE_ADDR & value=127.0.0.1
+2015-02-17 15:54:57 212129: TRACE Array rule: key=DOCUMENT_ROOT & value=/Applications/MAMP/htdocs
+2015-02-17 15:54:57 212549: TRACE Array rule: key=SERVER_ADMIN & value=you@example.com
+2015-02-17 15:54:57 212957: TRACE Array rule: key=SCRIPT_FILENAME & value=/Applications/MAMP/htdocs/sb/login.php
+2015-02-17 15:54:57 213354: TRACE Array rule: key=REMOTE_PORT & value=52595
+2015-02-17 15:54:57 213783: TRACE Array rule: key=GATEWAY_INTERFACE & value=CGI/1.1
+2015-02-17 15:54:57 214246: TRACE Array rule: key=SERVER_PROTOCOL & value=HTTP/1.1
+2015-02-17 15:54:57 214664: TRACE Array rule: key=REQUEST_METHOD & value=POST
+2015-02-17 15:54:57 215052: TRACE Array rule: key=QUERY_STRING & value=
+2015-02-17 15:54:57 215470: TRACE Array rule: key=REQUEST_URI & value=/sb/login.php
+2015-02-17 15:54:57 215875: TRACE Array rule: key=SCRIPT_NAME & value=/sb/login.php
+2015-02-17 15:54:57 216271: TRACE Array rule: key=PHP_SELF & value=/sb/login.php
+2015-02-17 15:54:57 216674: TRACE Array rule: key=REQUEST_TIME_FLOAT & value=1424184897.19
+2015-02-17 15:54:57 217058: TRACE Array rule: key=REQUEST_TIME & value=1424184897
+2015-02-17 15:54:57 217542: TRACE Array rule: key=argv & value=Array
+2015-02-17 15:54:57 217961: TRACE Array accepted
+2015-02-17 15:54:57 218352: TRACE Array rule: key=argc & value=0
+2015-02-17 15:54:57 218837: TRACE Debug $_SERVER
+2015-02-17 16:11:41 837938: TRACE Debug page called
+2015-02-17 16:12:14 479375: TRACE Debug page called
+2015-02-17 16:12:14 479745: INFO Log level changed to 5
+2015-02-17 16:12:14 480565: INFO Log level changed to 5
+2015-02-17 16:12:14 481113: INFO Log level changed to 5
+2015-02-17 16:12:14 481682: INFO Log level changed to 5
+2015-02-17 16:12:14 482235: INFO Log level changed to 5
+2015-02-17 16:12:14 482826: INFO Log level changed to 5
+2015-02-17 16:12:14 483466: INFO Log level changed to 5
+2015-02-17 16:12:14 483980: INFO Log level changed to 5
+2015-02-17 16:12:14 484506: INFO Log level changed to 5
+2015-02-17 16:12:47 286140: TRACE Debug page called
+2015-02-17 16:12:47 286468: INFO Log level changed to 5
+2015-02-17 16:12:47 287357: INFO Log level changed to 5
+2015-02-17 16:12:47 287994: INFO Log level changed to 5
+2015-02-17 16:12:47 288485: INFO Log level changed to 5
+2015-02-17 16:12:47 289002: INFO Log level changed to 5
+2015-02-17 16:12:47 289562: INFO Log level changed to 5
+2015-02-17 16:12:47 290065: INFO Log level changed to 5
+2015-02-17 16:12:47 290630: INFO Log level changed to 5
+2015-02-17 16:12:47 291258: INFO Log level changed to 5
+2015-02-17 16:13:31 386286: TRACE Debug page called
+2015-02-17 16:13:31 386588: INFO Old log level: 6
+2015-02-17 16:13:31 387369: INFO Log level changed to 5
+2015-02-17 16:13:31 388106: INFO Old log level: 5
+2015-02-17 16:13:31 388745: INFO Log level changed to 5
+2015-02-17 16:13:31 389621: INFO Old log level: 5
+2015-02-17 16:13:31 390148: INFO Log level changed to 5
+2015-02-17 16:13:31 390617: INFO Old log level: 5
+2015-02-17 16:13:31 391086: INFO Log level changed to 5
+2015-02-17 16:13:31 391616: INFO Old log level: 5
+2015-02-17 16:13:31 392397: INFO Log level changed to 5
+2015-02-17 16:13:31 393186: INFO Old log level: 5
+2015-02-17 16:13:31 393786: INFO Log level changed to 5
+2015-02-17 16:13:31 394350: INFO Old log level: 5
+2015-02-17 16:13:31 395256: INFO Log level changed to 5
+2015-02-17 16:13:31 395737: INFO Old log level: 5
+2015-02-17 16:13:31 396208: INFO Log level changed to 5
+2015-02-17 16:13:31 396804: INFO Old log level: 5
+2015-02-17 16:13:31 397514: INFO Log level changed to 5
+2015-02-17 16:15:05 616533: INFO Old log level: 4
+2015-02-17 16:15:05 616797: INFO Log level changed to 5
+2015-02-17 16:15:05 617523: INFO Old log level: 5
+2015-02-17 16:15:05 618050: INFO Log level changed to 5
+2015-02-17 16:15:05 618550: INFO Old log level: 5
+2015-02-17 16:15:05 619039: INFO Log level changed to 5
+2015-02-17 16:15:05 619510: INFO Old log level: 5
+2015-02-17 16:15:05 620181: INFO Log level changed to 5
+2015-02-17 16:15:05 620729: INFO Old log level: 5
+2015-02-17 16:15:05 621240: INFO Log level changed to 5
+2015-02-17 16:15:05 621785: INFO Old log level: 5
+2015-02-17 16:15:05 622405: INFO Log level changed to 5
+2015-02-17 16:15:05 622928: INFO Old log level: 5
+2015-02-17 16:15:05 623410: INFO Log level changed to 5
+2015-02-17 16:15:05 623854: INFO Old log level: 5
+2015-02-17 16:15:05 624357: INFO Log level changed to 5
+2015-02-17 16:15:05 625068: INFO Old log level: 5
+2015-02-17 16:15:05 625567: INFO Log level changed to 5
+2015-02-17 16:16:16 977833: INFO Old log level: 4
+2015-02-17 16:16:16 978138: INFO Log level changed to 5
+2015-02-17 16:16:16 979010: INFO Log level changed to 4
+2015-02-17 16:37:25 109476: INFO Old log level: 4
+2015-02-17 16:37:25 110056: INFO Log level changed to 5
+2015-02-17 16:37:25 111092: INFO Log level changed to 4
+2015-02-18 11:46:54 310357: INFO Old log level: 4
+2015-02-18 11:46:54 312648: INFO Log level changed to 5
+2015-02-18 11:46:54 314664: INFO Log level changed to 4
+2015-02-20 10:02:41 632464: INFO Old log level: 4
+2015-02-20 10:02:41 662176: INFO Log level changed to 5
+2015-02-20 10:02:41 663825: INFO Log level changed to 4
+2015-02-20 10:03:03 243047: INFO Old log level: 4
+2015-02-20 10:03:03 243449: INFO Log level changed to 5
+2015-02-20 10:03:03 244440: INFO Log level changed to 4
+2015-02-20 14:52:56 001078: INFO Old log level: 4
+2015-02-20 14:52:56 026364: INFO Log level changed to 5
+2015-02-20 14:52:56 027346: INFO Log level changed to 4
+2015-02-20 14:53:06 054651: INFO Old log level: 4
+2015-02-20 14:53:06 055086: INFO Log level changed to 5
+2015-02-20 14:53:06 055978: INFO Log level changed to 4
+2015-02-20 14:53:09 703844: INFO Old log level: 4
+2015-02-20 14:53:09 704121: INFO Log level changed to 5
+2015-02-20 14:53:09 704976: INFO Log level changed to 4
+2015-02-20 14:53:14 165635: INFO Old log level: 4
+2015-02-20 14:53:14 165915: INFO Log level changed to 5
+2015-02-20 14:53:14 166722: INFO Log level changed to 4
+2015-02-20 14:54:43 031621: INFO Old log level: 4
+2015-02-20 14:54:43 032999: INFO Log level changed to 5
+2015-02-20 14:54:43 034111: INFO Log level changed to 4
+2015-02-20 14:54:45 537215: INFO Old log level: 4
+2015-02-20 14:54:45 537509: INFO Log level changed to 5
+2015-02-20 14:54:45 538414: INFO Log level changed to 4
+2015-02-20 14:55:05 326634: INFO Old log level: 4
+2015-02-20 14:55:05 327102: INFO Log level changed to 5
+2015-02-20 14:55:05 328006: INFO Log level changed to 4
+2015-02-20 14:55:34 691575: INFO Old log level: 4
+2015-02-20 14:55:34 691877: INFO Log level changed to 5
+2015-02-20 14:55:34 692681: INFO Log level changed to 4
+2015-02-20 14:55:53 849014: INFO Old log level: 4
+2015-02-20 14:55:53 849573: INFO Log level changed to 5
+2015-02-20 14:55:53 850643: INFO Log level changed to 4
+2015-02-20 14:58:02 984990: INFO Old log level: 4
+2015-02-20 14:58:02 985323: INFO Log level changed to 5
+2015-02-20 14:58:02 986260: INFO Log level changed to 4
+2015-02-20 14:58:25 123031: INFO Old log level: 4
+2015-02-20 14:58:25 123317: INFO Log level changed to 5
+2015-02-20 14:58:25 124230: INFO Log level changed to 4
+2015-02-20 14:58:38 104463: INFO Old log level: 4
+2015-02-20 14:58:38 104761: INFO Log level changed to 5
+2015-02-20 14:58:38 105646: INFO Log level changed to 4
+2015-02-23 14:08:13 973665: INFO Old log level: 4
+2015-02-23 14:08:13 999929: INFO Log level changed to 5
+2015-02-23 14:08:14 001326: INFO Log level changed to 4
+2015-02-23 14:08:25 866098: INFO Old log level: 4
+2015-02-23 14:08:25 866630: INFO Log level changed to 5
+2015-02-23 14:08:25 867660: INFO Log level changed to 4
+2015-02-23 14:09:18 109070: INFO Old log level: 4
+2015-02-23 14:09:18 109496: INFO Log level changed to 5
+2015-02-23 14:09:18 110478: INFO Log level changed to 4
+2015-02-23 14:09:26 989950: INFO Old log level: 4
+2015-02-23 14:09:26 990321: INFO Log level changed to 5
+2015-02-23 14:09:26 991428: INFO Log level changed to 4
+2015-02-23 14:10:12 616671: INFO Old log level: 4
+2015-02-23 14:10:12 616999: INFO Log level changed to 5
+2015-02-23 14:10:12 617884: INFO Log level changed to 4
+2015-02-23 14:44:27 460534: INFO Old log level: 4
+2015-02-23 14:44:27 460876: INFO Log level changed to 5
+2015-02-23 14:44:27 461874: INFO Log level changed to 4
+2015-02-23 14:44:32 616813: INFO Old log level: 4
+2015-02-23 14:44:32 617115: INFO Log level changed to 5
+2015-02-23 14:44:32 617991: INFO Log level changed to 4
+2015-02-23 14:44:48 203514: INFO Old log level: 4
+2015-02-23 14:44:48 203911: INFO Log level changed to 5
+2015-02-23 14:44:48 204797: INFO Log level changed to 4
+2015-02-23 14:45:10 182269: INFO Old log level: 4
+2015-02-23 14:45:10 182732: INFO Log level changed to 5
+2015-02-23 14:45:10 183792: INFO Log level changed to 4
+2015-02-23 14:45:29 921847: INFO Old log level: 4
+2015-02-23 14:45:29 922218: INFO Log level changed to 5
+2015-02-23 14:45:29 923168: INFO Log level changed to 4
+2015-02-23 14:45:48 904162: INFO Old log level: 4
+2015-02-23 14:45:48 904470: INFO Log level changed to 5
+2015-02-23 14:45:48 905372: INFO Log level changed to 4
+2015-02-23 14:45:51 019721: INFO Old log level: 4
+2015-02-23 14:45:51 020034: INFO Log level changed to 5
+2015-02-23 14:45:51 020861: INFO Log level changed to 4
+2015-02-23 14:45:57 514126: INFO Old log level: 4
+2015-02-23 14:45:57 514402: INFO Log level changed to 5
+2015-02-23 14:45:57 515339: INFO Log level changed to 4
+2015-02-23 14:46:31 351115: INFO Old log level: 4
+2015-02-23 14:46:31 351489: INFO Log level changed to 5
+2015-02-23 14:46:31 352393: INFO Log level changed to 4
+2015-02-23 14:46:35 919145: INFO Old log level: 4
+2015-02-23 14:46:35 919417: INFO Log level changed to 5
+2015-02-23 14:46:35 920305: INFO Log level changed to 4
+2015-02-23 14:46:43 604245: INFO Old log level: 4
+2015-02-23 14:46:43 604535: INFO Log level changed to 5
+2015-02-23 14:46:43 605442: INFO Log level changed to 4
+2015-02-23 14:46:47 271194: INFO Old log level: 4
+2015-02-23 14:46:47 271454: INFO Log level changed to 5
+2015-02-23 14:46:47 272316: INFO Log level changed to 4
+2015-02-23 14:47:16 661142: INFO Old log level: 4
+2015-02-23 14:47:16 661630: INFO Log level changed to 5
+2015-02-23 14:47:16 662563: INFO Log level changed to 4
+2015-02-23 14:47:31 829560: INFO Old log level: 4
+2015-02-23 14:47:31 829870: INFO Log level changed to 5
+2015-02-23 14:47:31 830835: INFO Log level changed to 4
+2015-02-23 14:47:44 080360: INFO Old log level: 4
+2015-02-23 14:47:44 080672: INFO Log level changed to 5
+2015-02-23 14:47:44 081598: INFO Log level changed to 4
+2015-02-23 14:48:02 849246: INFO Old log level: 4
+2015-02-23 14:48:02 849567: INFO Log level changed to 5
+2015-02-23 14:48:02 850537: INFO Log level changed to 4
+2015-02-23 14:48:40 937703: INFO Old log level: 4
+2015-02-23 14:48:40 937985: INFO Log level changed to 5
+2015-02-23 14:48:40 938836: INFO Log level changed to 4
+2015-02-23 14:48:42 037928: INFO Old log level: 4
+2015-02-23 14:48:42 038682: INFO Log level changed to 5
+2015-02-23 14:48:42 039463: INFO Log level changed to 4
+2015-02-23 14:48:58 190312: INFO Old log level: 4
+2015-02-23 14:48:58 190623: INFO Log level changed to 5
+2015-02-23 14:48:58 191521: INFO Log level changed to 4
+2015-02-23 14:49:22 030312: INFO Old log level: 4
+2015-02-23 14:49:22 030622: INFO Log level changed to 5
+2015-02-23 14:49:22 031510: INFO Log level changed to 4
+2015-02-23 14:49:27 174079: INFO Old log level: 4
+2015-02-23 14:49:27 174320: INFO Log level changed to 5
+2015-02-23 14:49:27 175468: INFO Log level changed to 4
+2015-02-23 14:49:28 545413: INFO Old log level: 4
+2015-02-23 14:49:28 545714: INFO Log level changed to 5
+2015-02-23 14:49:28 546615: INFO Log level changed to 4
+2015-02-23 14:49:29 595114: INFO Old log level: 4
+2015-02-23 14:49:29 596079: INFO Log level changed to 5
+2015-02-23 14:49:29 596874: INFO Log level changed to 4
+2015-02-23 14:50:59 174764: INFO Old log level: 4
+2015-02-23 14:50:59 175052: INFO Log level changed to 5
+2015-02-23 14:50:59 175937: INFO Log level changed to 4
+2015-02-23 14:51:05 164342: INFO Old log level: 4
+2015-02-23 14:51:05 165273: INFO Log level changed to 5
+2015-02-23 14:51:05 166089: INFO Log level changed to 4
+2015-02-23 14:51:32 630059: INFO Old log level: 4
+2015-02-23 14:51:32 630362: INFO Log level changed to 5
+2015-02-23 14:51:32 631312: INFO Log level changed to 4
+2015-02-23 14:51:33 963497: INFO Old log level: 4
+2015-02-23 14:51:33 964427: INFO Log level changed to 5
+2015-02-23 14:51:33 965225: INFO Log level changed to 4
+2015-02-23 14:51:35 493465: INFO Old log level: 4
+2015-02-23 14:51:35 493743: INFO Log level changed to 5
+2015-02-23 14:51:35 494586: INFO Log level changed to 4
+2015-02-23 14:51:36 243402: INFO Old log level: 4
+2015-02-23 14:51:36 244087: INFO Log level changed to 5
+2015-02-23 14:51:36 244936: INFO Log level changed to 4
+2015-02-23 14:51:36 779908: INFO Old log level: 4
+2015-02-23 14:51:36 780574: INFO Log level changed to 5
+2015-02-23 14:51:36 781333: INFO Log level changed to 4
+2015-02-23 14:51:37 005438: INFO Old log level: 4
+2015-02-23 14:51:37 006172: INFO Log level changed to 5
+2015-02-23 14:51:37 006995: INFO Log level changed to 4
+2015-02-23 14:51:37 213770: INFO Old log level: 4
+2015-02-23 14:51:37 214729: INFO Log level changed to 5
+2015-02-23 14:51:37 215541: INFO Log level changed to 4
+2015-02-23 14:51:37 554169: INFO Old log level: 4
+2015-02-23 14:51:37 555088: INFO Log level changed to 5
+2015-02-23 14:51:37 555976: INFO Log level changed to 4
+2015-02-23 14:51:37 734631: INFO Old log level: 4
+2015-02-23 14:51:37 735388: INFO Log level changed to 5
+2015-02-23 14:51:37 736197: INFO Log level changed to 4
+2015-02-23 14:51:37 914523: INFO Old log level: 4
+2015-02-23 14:51:37 915628: INFO Log level changed to 5
+2015-02-23 14:51:37 916484: INFO Log level changed to 4
+2015-02-23 14:51:38 091752: INFO Old log level: 4
+2015-02-23 14:51:38 092436: INFO Log level changed to 5
+2015-02-23 14:51:38 093126: INFO Log level changed to 4
+2015-02-23 14:51:38 275023: INFO Old log level: 4
+2015-02-23 14:51:38 275725: INFO Log level changed to 5
+2015-02-23 14:51:38 276721: INFO Log level changed to 4
+2015-02-23 14:51:38 488103: INFO Old log level: 4
+2015-02-23 14:51:38 488843: INFO Log level changed to 5
+2015-02-23 14:51:38 489701: INFO Log level changed to 4
+2015-02-23 14:51:38 669997: INFO Old log level: 4
+2015-02-23 14:51:38 670831: INFO Log level changed to 5
+2015-02-23 14:51:38 671693: INFO Log level changed to 4
+2015-02-23 14:51:38 850579: INFO Old log level: 4
+2015-02-23 14:51:38 851550: INFO Log level changed to 5
+2015-02-23 14:51:38 852471: INFO Log level changed to 4
+2015-02-23 14:51:39 254649: INFO Old log level: 4
+2015-02-23 14:51:39 255467: INFO Log level changed to 5
+2015-02-23 14:51:39 256348: INFO Log level changed to 4
+2015-02-23 14:51:39 442520: INFO Old log level: 4
+2015-02-23 14:51:39 443253: INFO Log level changed to 5
+2015-02-23 14:51:39 444084: INFO Log level changed to 4
+2015-02-23 14:51:56 802719: INFO Old log level: 4
+2015-02-23 14:51:56 803037: INFO Log level changed to 5
+2015-02-23 14:51:56 803954: INFO Log level changed to 4
+2015-02-23 14:51:58 475286: INFO Old log level: 4
+2015-02-23 14:51:58 475542: INFO Log level changed to 5
+2015-02-23 14:51:58 476411: INFO Log level changed to 4
+2015-02-23 14:51:59 133650: INFO Old log level: 4
+2015-02-23 14:51:59 134518: INFO Log level changed to 5
+2015-02-23 14:51:59 135450: INFO Log level changed to 4
+2015-02-23 14:51:59 324565: INFO Old log level: 4
+2015-02-23 14:51:59 325314: INFO Log level changed to 5
+2015-02-23 14:51:59 326167: INFO Log level changed to 4
+2015-02-23 14:51:59 500946: INFO Old log level: 4
+2015-02-23 14:51:59 502496: INFO Log level changed to 5
+2015-02-23 14:51:59 503796: INFO Log level changed to 4
+2015-02-23 14:51:59 676825: INFO Old log level: 4
+2015-02-23 14:51:59 677556: INFO Log level changed to 5
+2015-02-23 14:51:59 678330: INFO Log level changed to 4
+2015-02-23 14:51:59 855311: INFO Old log level: 4
+2015-02-23 14:51:59 856239: INFO Log level changed to 5
+2015-02-23 14:51:59 857077: INFO Log level changed to 4
+2015-02-23 14:52:00 063130: INFO Old log level: 4
+2015-02-23 14:52:00 065197: INFO Log level changed to 5
+2015-02-23 14:52:00 066398: INFO Log level changed to 4
+2015-02-23 14:52:00 272328: INFO Old log level: 4
+2015-02-23 14:52:00 273288: INFO Log level changed to 5
+2015-02-23 14:52:00 274170: INFO Log level changed to 4
+2015-02-23 14:52:03 567198: INFO Old log level: 4
+2015-02-23 14:52:03 568544: INFO Log level changed to 5
+2015-02-23 14:52:03 570126: INFO Log level changed to 4
+2015-02-23 14:59:45 279447: INFO Old log level: 4
+2015-02-23 14:59:45 279850: INFO Log level changed to 5
+2015-02-23 14:59:45 280676: INFO Log level changed to 4
+2015-02-23 15:25:50 958897: INFO Old log level: 4
+2015-02-23 15:25:50 959352: INFO Log level changed to 5
+2015-02-23 15:25:50 960278: INFO Log level changed to 4
+2015-02-23 15:25:52 494371: INFO Old log level: 4
+2015-02-23 15:25:52 495060: INFO Log level changed to 5
+2015-02-23 15:25:52 495829: INFO Log level changed to 4
+2015-02-23 15:25:54 091454: INFO Old log level: 4
+2015-02-23 15:25:54 091728: INFO Log level changed to 5
+2015-02-23 15:25:54 092593: INFO Log level changed to 4
+2015-02-23 15:26:18 298569: INFO Old log level: 4
+2015-02-23 15:26:18 298940: INFO Log level changed to 5
+2015-02-23 15:26:18 299974: INFO Log level changed to 4
+2015-02-23 15:26:19 712661: INFO Old log level: 4
+2015-02-23 15:26:19 712941: INFO Log level changed to 5
+2015-02-23 15:26:19 713838: INFO Log level changed to 4
+2015-02-23 15:26:20 271874: INFO Old log level: 4
+2015-02-23 15:26:20 272567: INFO Log level changed to 5
+2015-02-23 15:26:20 273489: INFO Log level changed to 4
+2015-02-23 15:26:20 495461: INFO Old log level: 4
+2015-02-23 15:26:20 496287: INFO Log level changed to 5
+2015-02-23 15:26:20 497335: INFO Log level changed to 4
+2015-02-23 15:26:20 673654: INFO Old log level: 4
+2015-02-23 15:26:20 674332: INFO Log level changed to 5
+2015-02-23 15:26:20 675427: INFO Log level changed to 4
+2015-02-23 15:26:44 704300: INFO Old log level: 4
+2015-02-23 15:26:44 704632: INFO Log level changed to 5
+2015-02-23 15:26:44 705676: INFO Log level changed to 4
+2015-02-23 15:27:15 123088: INFO Old log level: 4
+2015-02-23 15:27:15 123489: INFO Log level changed to 5
+2015-02-23 15:27:15 124447: INFO Log level changed to 4
+2015-02-23 15:27:16 505978: INFO Old log level: 4
+2015-02-23 15:27:16 506722: INFO Log level changed to 5
+2015-02-23 15:27:16 507494: INFO Log level changed to 4
+2015-02-23 15:27:17 556331: INFO Old log level: 4
+2015-02-23 15:27:17 557032: INFO Log level changed to 5
+2015-02-23 15:27:17 557797: INFO Log level changed to 4
+2015-02-23 15:27:18 571066: INFO Old log level: 4
+2015-02-23 15:27:18 571664: INFO Log level changed to 5
+2015-02-23 15:27:18 572344: INFO Log level changed to 4
+2015-02-23 15:27:19 604965: INFO Old log level: 4
+2015-02-23 15:27:19 605708: INFO Log level changed to 5
+2015-02-23 15:27:19 606433: INFO Log level changed to 4
+2015-02-23 15:27:20 706905: INFO Old log level: 4
+2015-02-23 15:27:20 707705: INFO Log level changed to 5
+2015-02-23 15:27:20 708486: INFO Log level changed to 4
+2015-02-23 15:27:22 054855: INFO Old log level: 4
+2015-02-23 15:27:22 055134: INFO Log level changed to 5
+2015-02-23 15:27:22 056040: INFO Log level changed to 4
+2015-02-23 15:27:22 829977: INFO Old log level: 4
+2015-02-23 15:27:22 830711: INFO Log level changed to 5
+2015-02-23 15:27:22 831878: INFO Log level changed to 4
+2015-02-23 15:27:23 339688: INFO Old log level: 4
+2015-02-23 15:27:23 340808: INFO Log level changed to 5
+2015-02-23 15:27:23 342851: INFO Log level changed to 4
+2015-02-23 15:27:23 559869: INFO Old log level: 4
+2015-02-23 15:27:23 560988: INFO Log level changed to 5
+2015-02-23 15:27:23 562422: INFO Log level changed to 4
+2015-02-23 15:27:23 768306: INFO Old log level: 4
+2015-02-23 15:27:23 769019: INFO Log level changed to 5
+2015-02-23 15:27:23 770011: INFO Log level changed to 4
+2015-02-23 15:27:23 979751: INFO Old log level: 4
+2015-02-23 15:27:23 980568: INFO Log level changed to 5
+2015-02-23 15:27:23 981799: INFO Log level changed to 4
+2015-02-23 15:27:24 191815: INFO Old log level: 4
+2015-02-23 15:27:24 193142: INFO Log level changed to 5
+2015-02-23 15:27:24 194402: INFO Log level changed to 4
+2015-02-23 15:27:24 412012: INFO Old log level: 4
+2015-02-23 15:27:24 412943: INFO Log level changed to 5
+2015-02-23 15:27:24 413926: INFO Log level changed to 4
+2015-02-23 15:27:24 629015: INFO Old log level: 4
+2015-02-23 15:27:24 629681: INFO Log level changed to 5
+2015-02-23 15:27:24 630487: INFO Log level changed to 4
+2015-02-23 15:27:24 857413: INFO Old log level: 4
+2015-02-23 15:27:24 858668: INFO Log level changed to 5
+2015-02-23 15:27:24 859849: INFO Log level changed to 4
+2015-02-23 15:27:25 663063: INFO Old log level: 4
+2015-02-23 15:27:25 663770: INFO Log level changed to 5
+2015-02-23 15:27:25 664506: INFO Log level changed to 4
+2015-02-23 15:27:26 426943: INFO Old log level: 4
+2015-02-23 15:27:26 428157: INFO Log level changed to 5
+2015-02-23 15:27:26 429235: INFO Log level changed to 4
+2015-02-23 15:27:27 215877: INFO Old log level: 4
+2015-02-23 15:27:27 216530: INFO Log level changed to 5
+2015-02-23 15:27:27 217411: INFO Log level changed to 4
+2015-02-23 16:14:27 169748: INFO Old log level: 4
+2015-02-23 16:14:27 170415: INFO Log level changed to 5
+2015-02-23 16:14:27 171401: INFO Log level changed to 4
+2015-02-23 16:15:37 890892: INFO Old log level: 4
+2015-02-23 16:15:37 891182: INFO Log level changed to 5
+2015-02-23 16:15:37 892098: INFO Log level changed to 4
+2015-02-23 16:15:39 344909: INFO Old log level: 4
+2015-02-23 16:15:39 345383: INFO Log level changed to 5
+2015-02-23 16:15:39 346386: INFO Log level changed to 4
+2015-02-23 16:15:39 892224: INFO Old log level: 4
+2015-02-23 16:15:39 892836: INFO Log level changed to 5
+2015-02-23 16:15:39 893590: INFO Log level changed to 4
+2015-02-23 16:15:40 205849: INFO Old log level: 4
+2015-02-23 16:15:40 206525: INFO Log level changed to 5
+2015-02-23 16:15:40 207300: INFO Log level changed to 4
+2015-02-23 16:15:40 628476: INFO Old log level: 4
+2015-02-23 16:15:40 629184: INFO Log level changed to 5
+2015-02-23 16:15:40 629989: INFO Log level changed to 4
+2015-02-23 16:15:40 835577: INFO Old log level: 4
+2015-02-23 16:15:40 836271: INFO Log level changed to 5
+2015-02-23 16:15:40 837186: INFO Log level changed to 4
+2015-02-23 16:15:41 019931: INFO Old log level: 4
+2015-02-23 16:15:41 020589: INFO Log level changed to 5
+2015-02-23 16:15:41 021446: INFO Log level changed to 4
+2015-02-23 16:15:41 178751: INFO Old log level: 4
+2015-02-23 16:15:41 179430: INFO Log level changed to 5
+2015-02-23 16:15:41 180195: INFO Log level changed to 4
+2015-02-23 16:15:41 338667: INFO Old log level: 4
+2015-02-23 16:15:41 339470: INFO Log level changed to 5
+2015-02-23 16:15:41 340336: INFO Log level changed to 4
+2015-02-23 16:15:41 483719: INFO Old log level: 4
+2015-02-23 16:15:41 484383: INFO Log level changed to 5
+2015-02-23 16:15:41 485247: INFO Log level changed to 4
+2015-02-23 16:15:41 651227: INFO Old log level: 4
+2015-02-23 16:15:41 651887: INFO Log level changed to 5
+2015-02-23 16:15:41 652639: INFO Log level changed to 4
+2015-02-23 16:15:41 820958: INFO Old log level: 4
+2015-02-23 16:15:41 821720: INFO Log level changed to 5
+2015-02-23 16:15:41 822566: INFO Log level changed to 4
+2015-02-23 16:16:14 975953: INFO Old log level: 4
+2015-02-23 16:16:14 976367: INFO Log level changed to 5
+2015-02-23 16:16:14 977417: INFO Log level changed to 4
+2015-02-23 16:16:26 150101: INFO Old log level: 4
+2015-02-23 16:16:26 151197: INFO Log level changed to 5
+2015-02-23 16:16:26 153416: INFO Log level changed to 4
+2015-02-23 16:16:27 569113: INFO Old log level: 4
+2015-02-23 16:16:27 569452: INFO Log level changed to 5
+2015-02-23 16:16:27 570642: INFO Log level changed to 4
+2015-02-23 16:16:28 091174: INFO Old log level: 4
+2015-02-23 16:16:28 092072: INFO Log level changed to 5
+2015-02-23 16:16:28 093468: INFO Log level changed to 4
+2015-02-23 16:16:28 298593: INFO Old log level: 4
+2015-02-23 16:16:28 299174: INFO Log level changed to 5
+2015-02-23 16:16:28 300038: INFO Log level changed to 4
+2015-02-23 16:16:28 496943: INFO Old log level: 4
+2015-02-23 16:16:28 497921: INFO Log level changed to 5
+2015-02-23 16:16:28 499107: INFO Log level changed to 4
+2015-02-23 16:16:28 674527: INFO Old log level: 4
+2015-02-23 16:16:28 675250: INFO Log level changed to 5
+2015-02-23 16:16:28 676135: INFO Log level changed to 4
+2015-02-23 16:16:28 848433: INFO Old log level: 4
+2015-02-23 16:16:28 849168: INFO Log level changed to 5
+2015-02-23 16:16:28 850051: INFO Log level changed to 4
+2015-02-23 16:16:29 031780: INFO Old log level: 4
+2015-02-23 16:16:29 032737: INFO Log level changed to 5
+2015-02-23 16:16:29 033657: INFO Log level changed to 4
+2015-02-23 16:16:29 216353: INFO Old log level: 4
+2015-02-23 16:16:29 217114: INFO Log level changed to 5
+2015-02-23 16:16:29 218037: INFO Log level changed to 4
+2015-02-23 16:16:29 388859: INFO Old log level: 4
+2015-02-23 16:16:29 389529: INFO Log level changed to 5
+2015-02-23 16:16:29 390401: INFO Log level changed to 4
+2015-02-23 16:16:29 565003: INFO Old log level: 4
+2015-02-23 16:16:29 565683: INFO Log level changed to 5
+2015-02-23 16:16:29 566648: INFO Log level changed to 4
+2015-02-23 16:16:29 745024: INFO Old log level: 4
+2015-02-23 16:16:29 745806: INFO Log level changed to 5
+2015-02-23 16:16:29 747447: INFO Log level changed to 4
+2015-02-23 16:16:29 900619: INFO Old log level: 4
+2015-02-23 16:16:29 901578: INFO Log level changed to 5
+2015-02-23 16:16:29 902599: INFO Log level changed to 4
+2015-02-23 16:16:53 435058: INFO Old log level: 4
+2015-02-23 16:16:53 435503: INFO Log level changed to 5
+2015-02-23 16:16:53 436471: INFO Log level changed to 4
+2015-02-23 16:16:54 801255: INFO Old log level: 4
+2015-02-23 16:16:54 801535: INFO Log level changed to 5
+2015-02-23 16:16:54 802496: INFO Log level changed to 4
+2015-02-23 16:43:03 136920: INFO Old log level: 4
+2015-02-23 16:43:03 137212: INFO Log level changed to 5
+2015-02-23 16:43:03 138365: INFO Log level changed to 4
+2015-02-23 16:43:05 060057: INFO Old log level: 4
+2015-02-23 16:43:05 060326: INFO Log level changed to 5
+2015-02-23 16:43:05 061339: INFO Log level changed to 4
+2015-02-23 16:43:06 399008: INFO Old log level: 4
+2015-02-23 16:43:06 399259: INFO Log level changed to 5
+2015-02-23 16:43:06 400178: INFO Log level changed to 4
+2015-02-23 16:43:07 092747: INFO Old log level: 4
+2015-02-23 16:43:07 093437: INFO Log level changed to 5
+2015-02-23 16:43:07 094442: INFO Log level changed to 4
+2015-02-23 16:43:07 317664: INFO Old log level: 4
+2015-02-23 16:43:07 318249: INFO Log level changed to 5
+2015-02-23 16:43:07 319003: INFO Log level changed to 4
+2015-02-23 16:43:07 532177: INFO Old log level: 4
+2015-02-23 16:43:07 532909: INFO Log level changed to 5
+2015-02-23 16:43:07 533906: INFO Log level changed to 4
+2015-02-23 16:43:07 711431: INFO Old log level: 4
+2015-02-23 16:43:07 712180: INFO Log level changed to 5
+2015-02-23 16:43:07 713127: INFO Log level changed to 4
+2015-02-23 16:43:07 879232: INFO Old log level: 4
+2015-02-23 16:43:07 879997: INFO Log level changed to 5
+2015-02-23 16:43:07 881127: INFO Log level changed to 4
+2015-02-23 16:43:08 038229: INFO Old log level: 4
+2015-02-23 16:43:08 039011: INFO Log level changed to 5
+2015-02-23 16:43:08 039876: INFO Log level changed to 4
+2015-02-23 16:43:08 217112: INFO Old log level: 4
+2015-02-23 16:43:08 217869: INFO Log level changed to 5
+2015-02-23 16:43:08 218729: INFO Log level changed to 4
+2015-02-23 16:43:08 387568: INFO Old log level: 4
+2015-02-23 16:43:08 388356: INFO Log level changed to 5
+2015-02-23 16:43:08 389216: INFO Log level changed to 4
+2015-02-23 16:43:08 579442: INFO Old log level: 4
+2015-02-23 16:43:08 580236: INFO Log level changed to 5
+2015-02-23 16:43:08 581042: INFO Log level changed to 4
+2015-02-23 16:43:08 759251: INFO Old log level: 4
+2015-02-23 16:43:08 759953: INFO Log level changed to 5
+2015-02-23 16:43:08 760719: INFO Log level changed to 4
+2015-02-23 16:43:08 938273: INFO Old log level: 4
+2015-02-23 16:43:08 938994: INFO Log level changed to 5
+2015-02-23 16:43:08 939891: INFO Log level changed to 4
+2015-02-23 16:43:09 132073: INFO Old log level: 4
+2015-02-23 16:43:09 132830: INFO Log level changed to 5
+2015-02-23 16:43:09 133694: INFO Log level changed to 4
+2015-02-23 16:43:09 335186: INFO Old log level: 4
+2015-02-23 16:43:09 335902: INFO Log level changed to 5
+2015-02-23 16:43:09 336691: INFO Log level changed to 4
+2015-02-23 16:43:09 501538: INFO Old log level: 4
+2015-02-23 16:43:09 502353: INFO Log level changed to 5
+2015-02-23 16:43:09 504003: INFO Log level changed to 4
+2015-02-23 16:43:09 681400: INFO Old log level: 4
+2015-02-23 16:43:09 682242: INFO Log level changed to 5
+2015-02-23 16:43:09 683430: INFO Log level changed to 4
+2015-02-23 16:43:09 871274: INFO Old log level: 4
+2015-02-23 16:43:09 871948: INFO Log level changed to 5
+2015-02-23 16:43:09 872912: INFO Log level changed to 4
+2015-02-23 16:43:10 063477: INFO Old log level: 4
+2015-02-23 16:43:10 064154: INFO Log level changed to 5
+2015-02-23 16:43:10 064995: INFO Log level changed to 4
+2015-02-23 16:43:10 266849: INFO Old log level: 4
+2015-02-23 16:43:10 267541: INFO Log level changed to 5
+2015-02-23 16:43:10 268457: INFO Log level changed to 4
+2015-02-23 16:43:11 206144: INFO Old log level: 4
+2015-02-23 16:43:11 206868: INFO Log level changed to 5
+2015-02-23 16:43:11 207789: INFO Log level changed to 4
+2015-02-23 16:44:20 438690: INFO Old log level: 4
+2015-02-23 16:44:20 439254: INFO Log level changed to 5
+2015-02-23 16:44:20 440357: INFO Log level changed to 4
+2015-02-23 16:44:21 956147: INFO Old log level: 4
+2015-02-23 16:44:21 956429: INFO Log level changed to 5
+2015-02-23 16:44:21 957405: INFO Log level changed to 4
+2015-02-23 16:44:22 529256: INFO Old log level: 4
+2015-02-23 16:44:22 530013: INFO Log level changed to 5
+2015-02-23 16:44:22 531000: INFO Log level changed to 4
+2015-02-23 16:44:22 731739: INFO Old log level: 4
+2015-02-23 16:44:22 732467: INFO Log level changed to 5
+2015-02-23 16:44:22 733446: INFO Log level changed to 4
+2015-02-23 16:44:22 932617: INFO Old log level: 4
+2015-02-23 16:44:22 933339: INFO Log level changed to 5
+2015-02-23 16:44:22 934314: INFO Log level changed to 4
+2015-02-23 16:44:23 136585: INFO Old log level: 4
+2015-02-23 16:44:23 137358: INFO Log level changed to 5
+2015-02-23 16:44:23 138334: INFO Log level changed to 4
+2015-02-23 16:44:23 315862: INFO Old log level: 4
+2015-02-23 16:44:23 316637: INFO Log level changed to 5
+2015-02-23 16:44:23 317694: INFO Log level changed to 4
+2015-02-23 16:44:23 528131: INFO Old log level: 4
+2015-02-23 16:44:23 528800: INFO Log level changed to 5
+2015-02-23 16:44:23 529512: INFO Log level changed to 4
+2015-02-23 16:44:23 708667: INFO Old log level: 4
+2015-02-23 16:44:23 709359: INFO Log level changed to 5
+2015-02-23 16:44:23 710266: INFO Log level changed to 4
+2015-02-23 16:44:23 877410: INFO Old log level: 4
+2015-02-23 16:44:23 878128: INFO Log level changed to 5
+2015-02-23 16:44:23 879105: INFO Log level changed to 4
+2015-02-23 16:45:28 580997: INFO Old log level: 4
+2015-02-23 16:45:28 581376: INFO Log level changed to 5
+2015-02-23 16:45:28 582540: INFO Log level changed to 4
+2015-02-23 16:45:31 155243: INFO Old log level: 4
+2015-02-23 16:45:31 155523: INFO Log level changed to 5
+2015-02-23 16:45:31 156402: INFO Log level changed to 4
+2015-02-23 16:45:47 876396: INFO Old log level: 4
+2015-02-23 16:45:47 876811: INFO Log level changed to 5
+2015-02-23 16:45:47 878032: INFO Log level changed to 4
+2015-02-23 16:46:37 574435: INFO Old log level: 4
+2015-02-23 16:46:37 574705: INFO Log level changed to 5
+2015-02-23 16:46:37 575673: INFO Log level changed to 4
+2015-02-23 16:46:38 650872: INFO Old log level: 4
+2015-02-23 16:46:38 651397: INFO Log level changed to 5
+2015-02-23 16:46:38 652216: INFO Log level changed to 4
+2015-02-23 16:46:39 139035: INFO Old log level: 4
+2015-02-23 16:46:39 139775: INFO Log level changed to 5
+2015-02-23 16:46:39 140665: INFO Log level changed to 4
+2015-02-23 16:46:39 376339: INFO Old log level: 4
+2015-02-23 16:46:39 377210: INFO Log level changed to 5
+2015-02-23 16:46:39 378242: INFO Log level changed to 4
+2015-02-23 16:46:39 581002: INFO Old log level: 4
+2015-02-23 16:46:39 582239: INFO Log level changed to 5
+2015-02-23 16:46:39 583905: INFO Log level changed to 4
+2015-02-23 16:46:39 780244: INFO Old log level: 4
+2015-02-23 16:46:39 781081: INFO Log level changed to 5
+2015-02-23 16:46:39 782587: INFO Log level changed to 4
+2015-02-23 16:47:43 760106: INFO Old log level: 4
+2015-02-23 16:47:43 760452: INFO Log level changed to 5
+2015-02-23 16:47:43 761468: INFO Log level changed to 4
+2015-02-23 16:47:45 657012: INFO Old log level: 4
+2015-02-23 16:47:45 657733: INFO Log level changed to 5
+2015-02-23 16:47:45 658821: INFO Log level changed to 4
+2015-02-23 16:47:46 320962: INFO Old log level: 4
+2015-02-23 16:47:46 321626: INFO Log level changed to 5
+2015-02-23 16:47:46 322415: INFO Log level changed to 4
+2015-02-23 16:47:55 116370: INFO Old log level: 4
+2015-02-23 16:47:55 116731: INFO Log level changed to 5
+2015-02-23 16:47:55 117655: INFO Log level changed to 4
+2015-02-23 16:47:56 389586: INFO Old log level: 4
+2015-02-23 16:47:56 390395: INFO Log level changed to 5
+2015-02-23 16:47:56 391249: INFO Log level changed to 4
+2015-02-23 16:48:12 384595: INFO Old log level: 4
+2015-02-23 16:48:12 384841: INFO Log level changed to 5
+2015-02-23 16:48:12 385765: INFO Log level changed to 4
+2015-02-23 16:48:13 947668: INFO Old log level: 4
+2015-02-23 16:48:13 947925: INFO Log level changed to 5
+2015-02-23 16:48:13 949061: INFO Log level changed to 4
+2015-02-23 16:48:14 544158: INFO Old log level: 4
+2015-02-23 16:48:14 544859: INFO Log level changed to 5
+2015-02-23 16:48:14 545692: INFO Log level changed to 4
+2015-02-23 16:48:14 736719: INFO Old log level: 4
+2015-02-23 16:48:14 737573: INFO Log level changed to 5
+2015-02-23 16:48:14 738794: INFO Log level changed to 4
+2015-02-23 16:48:34 819950: INFO Old log level: 4
+2015-02-23 16:48:34 820300: INFO Log level changed to 5
+2015-02-23 16:48:34 821466: INFO Log level changed to 4
